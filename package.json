@@ -1,0 +1,29 @@
+{
+  "name": "webpack-upload-assets-plugin",
+  "version": "1.0.0",
+  "description": "webpack-upload-assets-plugin",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lismill/webpack-upload-assets-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "upload",
+    "assets",
+    "server",
+    "plugin"
+  ],
+  "author": "lismill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lismill/webpack-upload-assets-plugin/issues"
+  },
+  "homepage": "https://github.com/lismill/webpack-upload-assets-plugin#readme",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
